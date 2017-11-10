@@ -1,8 +1,8 @@
 # AmneReactAssignment
 This is a React Assignment. Using to fetch all nearby real estate agencies of particular address in Austin.
 
-Author: Min Zhou
-**Github: "https://github.com/MinZhou2016/AmneReactAssignment"**
+* Author: Min Zhou
+* **Github: "https://github.com/MinZhou2016/AmneReactAssignment"**
 
 ## Front-End Part
 **URL: "http://awake-idea.surge.sh/"**
